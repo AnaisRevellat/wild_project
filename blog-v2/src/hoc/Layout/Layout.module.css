@@ -1,0 +1,26 @@
+:global .container{
+    width: 100%;
+    max-width: 1000px;
+    margin:0 auto;
+}
+
+:root{
+    --main-btnLink-color: #f63333;
+    --main-focusLink-color: #6e0505;
+    --main-activeLink-color: #0ad9e0;
+    --main-formLabel-color:#000000;
+    --main-formBackground-color:rgb(248, 245, 242);
+    --hover-formBtn-color:#ff0022;
+    --main-formForbidSubmit-color:#f68282;
+}
+
+.Layout{
+    display:flex;
+    flex-direction: column;   
+    height:100%;
+}
+
+.content{
+    flex-grow: 1;
+    background: white;
+}

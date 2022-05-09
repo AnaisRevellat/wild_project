@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Eleftheria",
+        "slug": "Eleftheria"
+    },
+    {
+        "id": 2,
+        "title": "Gennadios",
+        "slug": "Eleftheria"
+    },
+    {
+        "id": 3,
+        "title": "Lysimachos",
+        "slug": "Lysimachos"
+    },
+    {
+        "id": 4,
+        "title": "Alan",
+        "slug": "Alan"
+    },
+    {
+        "id": 5,
+        "title": "Atos",
+        "slug": "Atos"
+    },
+    {
+        "id": 6,
+        "title": "Lycos",
+        "slug": "Lycos"
+    },
+    {
+        "id": 7,
+        "title": "Nikos",
+        "slug": "Nikos"
+    }
+]

@@ -1,0 +1,11 @@
+.NavigationItem a {
+    text-decoration: none;
+    font-size:2.5em;
+    font-weight: 600;
+    color:var(--main-btnLink-color);
+}
+
+.NavigationItem a:hover{
+    color: var(--main-focusLink-color);
+}
+

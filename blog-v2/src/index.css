@@ -1,0 +1,12 @@
+body {
+  background: url("../public/jeanphilippedelberghe.jpg");
+  background-size:100%;  
+  margin: 0 auto;
+  max-width: 1600px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}

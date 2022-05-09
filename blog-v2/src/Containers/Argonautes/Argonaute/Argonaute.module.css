@@ -1,0 +1,31 @@
+
+.contentBox{
+    padding: 30px;
+    text-align:left;
+}
+
+.lead{
+    margin-bottom: 15px;
+    /* background: lightgreen; */
+    color:rgb(0, 0, 0, .5);
+}
+
+.author{
+    background: #f1f1f1;
+    margin-top:15px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.author span{
+   margin-left: 15px;
+   font-size: .9rem; 
+}
+
+.btn{
+    display:block;
+    margin-top: 15px; 
+    text-align: right; 
+  }
+  
+  

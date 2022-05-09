@@ -1,0 +1,55 @@
+.AddMembers {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    width: 80%;
+    margin:0 auto;
+    padding: 30px;
+    border-radius: 7px;
+    /* background: var(--main-formBackground-color); */
+}
+
+.submitBox{
+    display:flex;
+    align-items:center;    
+    height:30px;
+    /* background: blue; */
+}
+
+
+.submit{
+    text-align: center;
+}
+
+.submit input{
+    border: 1px solid white;
+    margin:5px;
+    padding: 4px 15px;
+    border-radius: 4px;
+    font-weight: 400;
+    cursor:pointer;
+    background: var(--main-btnLink-color);
+    color:white;
+}
+
+.submit input:focus,
+.submit input:hover{
+    background:var(--hover-formBtn-color);
+}
+.submit input:disabled {
+    opacity: .5;
+    cursor:not-allowed;
+    background: var(--main-formForbidSubmit-color);
+}
+
+textarea{
+    max-width:100%;
+    min-height:90px;
+}
+
+.title{
+    font-size:1.5rem;
+    font-weight: 700;
+
+}
+

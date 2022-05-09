@@ -1,0 +1,28 @@
+.Header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto;
+    width:100%;    
+    height: 9.7em;
+    background:#f4f4f4;
+}
+
+.flex{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo, .Nav{
+    display:flex;   
+}
+
+.logo{
+    justify-content:right;
+}
+
+.Nav{  
+    margin-left:10px;
+    /* background:blue; */
+}
